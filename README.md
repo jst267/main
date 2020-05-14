@@ -647,7 +647,7 @@ Shortest transaction:           0.45
 
 ## 헥사고날 아키텍처 변화 
 
-![image](https://user-images.githubusercontent.com/487999/79685243-1d704100-8272-11ea-8ef6-f4869c509996.png)
+![image](https://user-images.githubusercontent.com/64456259/81883261-b410f300-95cf-11ea-99e7-134c2eef1814.png)
 
 ## 구현  
 
