@@ -643,7 +643,7 @@ Shortest transaction:           0.45
     - 구현계획 마이크로 서비스: 새로운 룸서비스 마이크로 서비스를 통해, 고객에게 숙박 생활의 편리함 증대
 
 ## 이벤트 스토밍 
-   ![image](https://user-images.githubusercontent.com/64456259/81885534-8333bc80-95d5-11ea-9a11-e2414bab498a.png)
+   ![image](https://user-images.githubusercontent.com/64456259/81903227-6a8acd00-95fc-11ea-968a-9b274285cad3.png)
 
 ## 기존 기능적 요구사항
 - 고객은 예약 가능한 객실을 조회할 수 있다
