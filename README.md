@@ -635,7 +635,7 @@ Shortest transaction:           0.45
 
 # 신규 개발 조직의 추가
 
-신규조직추가.JPG
+https://github.com/jst267/jstprj/issues/1#issue-617856332
 
 
 ## 마케팅팀의 추가
