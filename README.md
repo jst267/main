@@ -635,7 +635,7 @@ Shortest transaction:           0.45
 
 # 신규 개발 조직의 추가
 
-https://github.com/jst267/jstprj/issues/1#issue-617856332
+![image](https://user-images.githubusercontent.com/64456259/81882253-3d72f600-95cd-11ea-9c40-accc24a01edd.png)
 
 
 ## 마케팅팀의 추가
@@ -643,7 +643,7 @@ https://github.com/jst267/jstprj/issues/1#issue-617856332
     - 구현계획 마이크로 서비스: 기존 customer 마이크로 서비스를 인수하며, 고객에 음식 및 맛집 추천 서비스 등을 제공할 예정
 
 ## 이벤트 스토밍 
-    ![image](https://user-images.githubusercontent.com/487999/79685356-2b729180-8273-11ea-9361-a434065f2249.png)
+    ![image](https://user-images.githubusercontent.com/64456259/81882422-aeb2a900-95cd-11ea-8ef5-99e6f58b4a8f.png)
 
 
 ## 헥사고날 아키텍처 변화 
