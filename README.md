@@ -643,8 +643,7 @@ Shortest transaction:           0.45
     - 구현계획 마이크로 서비스: 기존 customer 마이크로 서비스를 인수하며, 고객에 음식 및 맛집 추천 서비스 등을 제공할 예정
 
 ## 이벤트 스토밍 
-    ![image](https://user-images.githubusercontent.com/64456259/81882422-aeb2a900-95cd-11ea-8ef5-99e6f58b4a8f.png)
-
+   ![image](https://user-images.githubusercontent.com/64456259/81882677-457f6580-95ce-11ea-9158-5c1907f350e7.png)
 
 ## 헥사고날 아키텍처 변화 
 
