@@ -635,7 +635,7 @@ Shortest transaction:           0.45
 
 # 신규 개발 조직의 추가
 
-  ![image](https://user-images.githubusercontent.com/487999/79684133-1d6c4300-826a-11ea-94a2-602e61814ebf.png)
+
 
 
 ## 마케팅팀의 추가
